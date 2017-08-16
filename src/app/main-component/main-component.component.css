@@ -1,0 +1,10 @@
+.main{
+    background-color: #6495ED;
+    width: 600px;
+    border: 2px solid black;
+    margin-top: 40px;
+    margin-right: 135px;
+    padding: 20px;
+    text-align: left;
+    float: right;
+}

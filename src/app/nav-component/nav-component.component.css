@@ -1,0 +1,19 @@
+.nav{
+     background-color: #6495ED;
+     width: 250px;
+     border: 2px solid black;
+     margin-top: 40px;
+     margin-left: 135px;
+     height: 300px;
+     padding: 20px;
+
+}
+li{
+    list-style: none;
+}
+
+button{
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 2px;
+    width: 15em;  height: 2em;
+}
